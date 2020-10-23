@@ -1,5 +1,6 @@
 # To find simple interest 
 # with given Principle (p), No. of Years (n) and Rate of Interest (r)
+
 p = float(input("Enter principle: "))
 n = float(input("Enter number of years: "))
 r = float(input("Enter the rate of interest: "))
